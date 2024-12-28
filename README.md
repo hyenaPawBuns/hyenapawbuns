@@ -27,8 +27,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-<img align= "left" alt = "Renpy" width = "12" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg"/>
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" height="40" alt="Renpy logo"  />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
 </div>
 
